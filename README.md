@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/Mahi0211/Mahi0211/assets/97247845/757da789-4658-4a1d-bf9f-2de924ad1eef)
-)]()
+[![MasterHead](https://github.com/Mahi0211/Mahi0211/blob/455a18c622ae289700bc1b82d92dc49ebc5f2f2b/1_QHeR_o43WJdY5q91zOhmvA.png)]()
 <h1 align="center">Hi 👋, I'm Mahin Pranave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img
