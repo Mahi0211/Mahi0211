@@ -1,5 +1,11 @@
 [![MasterHead](https://github.com/Mahi0211/Mahi0211/blob/455a18c622ae289700bc1b82d92dc49ebc5f2f2b/1_QHeR_o43WJdY5q91zOhmvA.png)]()
 <h1 align="center">Hi 👋, I'm Mahin Pranave</h1>
+<img
+  align="right"
+  alt="Coding"
+  width="300"
+  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"
+/>
 
 ###
 
@@ -9,13 +15,17 @@
 
 ###
 
-<br clear="both">
+- 🔭 I’m currently working on **CareerHUB - Navigating Your Career Path (Job Search and Job Listing Website)**
 
-<p align="left">- 🔭 I’m currently working on **CareerHUB - Navigating Your Career Path (Job Search and Job Listing Website)**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Mahi0211](https://github.com/Mahi0211)<br><br>- 📫 How to reach me **mahinpranave@gmail.com**<br><br>- 📄 Know about my experiences [https://online.publuu.com/566975/1273500](https://online.publuu.com/566975/1273500)</p>
+- 👨‍💻 All of my projects are available at [https://github.com/Mahi0211](https://github.com/Mahi0211)
+
+- 📫 How to reach me **mahinpranave@gmail.com**
+
+- 📄 Know about my experiences [https://online.publuu.com/566975/1273500](https://online.publuu.com/566975/1273500)
 
 ###
 
-<h2 align="center">Connect with me...</h2>
+<h2 align="center">Connect with me:</h2>
 
 ###
 
@@ -61,13 +71,17 @@
   <img src="https://streak-stats.demolab.com?user=Mahi0211&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
-###
+<table align="center">
+  <tr>
+    <td>
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mahi0211/Mahi0211/output/github-contribution-grid-snake-dark.svg" />
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/g4GIszarvwgAAAAC/eren-yeager.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
