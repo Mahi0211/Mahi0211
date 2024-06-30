@@ -15,7 +15,7 @@
 
 ###
 
-- 🔭 I’m currently working on **CareerHUB - Navigating Your Career Path (Job Search and Job Listing Website)**
+- 🔭 I’m currently working on **CareerHUB - Navigating Your Career Path (Job Board Website)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahi0211](https://github.com/Mahi0211)
 
