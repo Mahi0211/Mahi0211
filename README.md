@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi0211&theme=aura&show_icons=true&locale=en&layout=compact&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi0211&theme=aura&show_icons=true&locale=en&hide_border=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi0211&theme=aura&show_icons=true&locale=en&hide_border=true&include_all_commits=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi0211&theme=aura&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
