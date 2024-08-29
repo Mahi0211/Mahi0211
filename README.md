@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **mahinpranave@gmail.com**
 
-- 📄 Know about my experiences [https://online.publuu.com/566975/1273500](https://online.publuu.com/566975/1273500)
-
 ###
 
 <h2 align="center">Connect with me:</h2>
