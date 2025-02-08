@@ -15,7 +15,7 @@
 
 ###
 
-- 🔭 I’m currently working on **CareerHUB - Navigating Your Career Path (Job Board Website)**
+- 🔭 I’m currently working on **NetflixGPT - Stream Beyond Limits: Where Every Story Lives (Netflix clone with GPT)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahi0211](https://github.com/Mahi0211)
 
