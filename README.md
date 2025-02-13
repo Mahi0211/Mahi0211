@@ -67,7 +67,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahi0211&theme=aura&show_icons=true&locale=en&layout=compact&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mahi0211&theme=aura&show_icons=true&locale=en&hide_border=true&include_all_commits=false" height="150" alt="stats graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=mahi0211&mode=daily&theme=aura&hide_border=true&border_radius=5&cache_seconds=86400" height="150" alt="Mahi0211's GitHub Stats" /> -->
-  <img src="https://streak-stats.demolab.com?user=Mahi0211&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Mahi0211&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi0211&theme=aura&mode=daily&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 <table align="center">
